@@ -1,0 +1,27 @@
+﻿  Cards.cpp
+C:\Concordia\Fall 2021\COMP 345\Warzone\Warzone\Cards.cpp(79,20): warning C4018: '<': signed/unsigned mismatch
+C:\Concordia\Fall 2021\COMP 345\Warzone\Warzone\Cards.cpp(105,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Concordia\Fall 2021\COMP 345\Warzone\Warzone\Cards.cpp(137,21): warning C4018: '<': signed/unsigned mismatch
+C:\Concordia\Fall 2021\COMP 345\Warzone\Warzone\Cards.cpp(160,20): warning C4018: '<': signed/unsigned mismatch
+C:\Concordia\Fall 2021\COMP 345\Warzone\Warzone\Cards.cpp(175,20): warning C4018: '<': signed/unsigned mismatch
+  CardsDriver.cpp
+  CommandProcessing.cpp
+C:\Concordia\Fall 2021\COMP 345\Warzone\Warzone\CommandProcessing.cpp(88,2): warning C4102: 'std': unreferenced label
+C:\Concordia\Fall 2021\COMP 345\Warzone\Warzone\CommandProcessing.cpp(145,20): warning C4018: '<': signed/unsigned mismatch
+  CommandProcessingDriver.cpp
+  GameEngine.cpp
+C:\Concordia\Fall 2021\COMP 345\Warzone\Warzone\GameEngine.cpp(365,20): warning C4018: '<': signed/unsigned mismatch
+  GameEngineDriver.cpp
+  Map.cpp
+  MapDriver.cpp
+  Orders.cpp
+  OrdersDriver.cpp
+  Player.cpp
+C:\Concordia\Fall 2021\COMP 345\Warzone\Warzone\Player.cpp(61,20): warning C4018: '<': signed/unsigned mismatch
+  PlayerDriver.cpp
+  PlayerStrategy.cpp
+C:\Concordia\Fall 2021\COMP 345\Warzone\Warzone\PlayerStrategy.cpp(65,23): warning C4018: '<': signed/unsigned mismatch
+  PlayerStrategyDriver.cpp
+  Generating Code...
+C:\Concordia\Fall 2021\COMP 345\Warzone\Warzone\GameEngine.cpp(230): warning C4715: 'StateNode::transition': not all control paths return a value
+  Warzone.vcxproj -> C:\Concordia\Fall 2021\COMP 345\Warzone\Debug\Warzone.exe
