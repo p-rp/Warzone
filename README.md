@@ -1,7 +1,7 @@
 # Warzone
 
 ## Project Overview
-This project involves the development of a simplified version of the popular Risk board game using C++. It is a semester-long project for COMP345, focusing on advanced program design with C++. The game is based on the "Warzone" variant of Risk, and the project is divided into multiple assignments, where each builds upon the previous one.
+This project involves the development of a  version of the popular Risk board game using C++, focusing on advanced program design with C++. The game is based on the "Warzone" variant of Risk, and the project is divided into multiple parts
 
 ## Game Objective
 The goal of the game is for players to conquer all territories on the map. Players compete by placing armies, attacking neighboring territories, and using special cards to gain strategic advantages.
@@ -45,8 +45,6 @@ A player wins by conquering all territories on the map. If a player loses all th
 ## Contributions
 This project was developed in teams, with each assignment building on the previous one. The structure was modular, making it easier to implement and test individual components.
 
-## License
-This project is for educational purposes under the COMP345 course at Concordia University. It is not meant for commercial use.
 
 ## References
 - Warzone: https://www.warzone.com/
