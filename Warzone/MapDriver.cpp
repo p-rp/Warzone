@@ -1,15 +1,15 @@
-#include "Map.h"
-#include <iostream>
+// #include "Map.h"
+// #include <iostream>
 
-using namespace std;
+// using namespace std;
 
-int main() {
-    MapLoader map;
-    map.setMapFile("europe.map");
-    map.readMap();
-    map.accessMap.displayContinents();
+// int main() {
+//     MapLoader map;
+//     map.setMapFile("europe.map");
+//     map.readMap();
+//     map.accessMap.displayContinents();
 
-    //map.worldMap.validate();
+//     //map.worldMap.validate();
 
-    return 0;
-}
+//     return 0;
+// }
